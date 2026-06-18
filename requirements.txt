@@ -1,10 +1,9 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-python-multipart==0.0.6
-pydantic==2.5.0
+fastapi==0.95.0
+uvicorn==0.21.0
+python-multipart==0.0.5
+pydantic==1.10.12
 groq==0.4.0
-langchain-text-splitters==0.0.1
-chromadb==0.4.14
+PyPDF2==3.0.1
 sentence-transformers==2.2.2
-pymupdf==1.23.8
+chromadb==0.3.21
 python-dotenv==1.0.0
