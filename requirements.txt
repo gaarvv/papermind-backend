@@ -11,3 +11,5 @@ PyMuPDF
 PyMuPDF==1.26.3
 langchain-text-splitters
 huggingface-hub==0.14.1
+groq>=0.30.0
+httpx>=0.28.0
