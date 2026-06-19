@@ -10,3 +10,4 @@ python-dotenv==1.0.0
 PyMuPDF
 PyMuPDF==1.26.3
 langchain-text-splitters
+huggingface-hub==0.14.1
